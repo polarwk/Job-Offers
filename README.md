@@ -1,7 +1,7 @@
 # Job-Offers
 ## 中国银行
-### https://www.boc.cn/aboutboc/bi4/202008/t20200810_18246943.html
-### 时间：8.10-9.17
+* https://www.boc.cn/aboutboc/bi4/202008/t20200810_18246943.html
+* 时间：8.10-9.17
 
 ## 中国农业银行
 ### https://career.abchina.com/build/index.html#/99
