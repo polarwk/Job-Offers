@@ -19,3 +19,17 @@
 
 ## 中国建设银行
 * 目前还没有
+
+## 微软
+* https://careers.microsoft.com/us/en/job/879773/2021-Graduates-Software-Engineer-MMD-Suzhou
+* 有软件工程师
+
+## paypal
+* https://jobsearch.paypal-corp.com/en-US/search?keywords=&location=Shanghai&facetcategory=
+* 上海
+
+## SAP
+* http://sap.51job.com/zp.html
+
+## IBM
+* https://careers.ibm.com/ShowJob/Id/940375/Open-Solutions-Specialist-Technology-Partnership/
