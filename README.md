@@ -18,7 +18,8 @@
 * 岗位出来的较多，有开发，有测试：业务测试、技术测试、测试管理
 
 ## 中国建设银行
-* 目前还没有
+* http://job.ccb.com/cn/job/job_list.html?planType=XY&orgId=&secondOrgId=&areaId=3090311000&keyword=
+* 8.20--10.08
 
 ## 微软
 * https://careers.microsoft.com/us/en/job/879773/2021-Graduates-Software-Engineer-MMD-Suzhou
