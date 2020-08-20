@@ -11,7 +11,8 @@
 * 目前还没有
 
 ## 中国工商银行
-* 目前还没有
+* https://job.icbc.com.cn/pc/index.html#/main/school/home/struct
+* 目前只发布了总行的招聘信息
 
 ## 中国交通银行
 * https://job.bankcomm.com/queryPosition.do
